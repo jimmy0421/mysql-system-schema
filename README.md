@@ -7,21 +7,21 @@
   * <b style="color:red">以下4个系列文章的内容，相比我们之前在任何公开平台中推动的内容，将更加详细</b>
   * <b style="color:red">以下4个系列文章的内容，将以4个子目录树分别展开介绍，更多详细内容，请点击各个子目录树中的"蓝色"字体超链接进行查看</b>
 
-### [information_schema详解](https://github.com/xiaoboluo768/mysql-system-schema/wiki/information_schema%E8%AF%A6%E8%A7%A3)
+### [information_schema详解](https://github.com/jimmy0421/mysql-system-schema/wiki/information_schema%E8%AF%A6%E8%A7%A3)
 * information_schema 系列已完成上传
 
-### [mysql schema详解](https://github.com/xiaoboluo768/mysql-system-schema/wiki/mysql-schema%E8%AF%A6%E8%A7%A3)
+### [mysql schema详解](https://github.com/jimmy0421/mysql-system-schema/wiki/mysql-schema%E8%AF%A6%E8%A7%A3)
 * mysql schema 系列已完成上传
 
-### [performance_schema详解](https://github.com/xiaoboluo768/mysql-system-schema/wiki/performance_schema%E8%AF%A6%E8%A7%A3)
+### [performance_schema详解](https://github.com/jimmy0421/mysql-system-schema/wiki/performance_schema%E8%AF%A6%E8%A7%A3)
 * performance_schema 系列已完成上传
 
-### [sys schema详解](https://github.com/xiaoboluo768/mysql-system-schema/wiki/sys-schema%E8%AF%A6%E8%A7%A3)
+### [sys schema详解](https://github.com/jimmy0421/mysql-system-schema/wiki/sys-schema%E8%AF%A6%E8%A7%A3)
 * sys schema 系列已完成上传
 
 ------
 
-开始  |  下一篇： [information_schema详解目录](https://github.com/xiaoboluo768/mysql-system-schema/wiki/information_schema%E8%AF%A6%E8%A7%A3) 
+开始  |  下一篇： [information_schema详解目录](https://github.com/jimmy0421/mysql-system-schema/wiki/information_schema%E8%AF%A6%E8%A7%A3) 
 
 ------
 
